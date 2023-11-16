@@ -1,7 +1,4 @@
 # Instagram
-
-Absolutely, here's a sample README file for your Instagram-like React 
-
 Instagram Clone App
 Welcome to our Instagram Clone App! This application allows users to view and interact with posts, add comments, and create new posts. Built using React, and a mock API for data.
 
